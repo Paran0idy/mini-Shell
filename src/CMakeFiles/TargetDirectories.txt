@@ -1,0 +1,3 @@
+/home/twoballs/project/sysprog/lab1/src/CMakeFiles/shell.dir
+/home/twoballs/project/sysprog/lab1/src/CMakeFiles/edit_cache.dir
+/home/twoballs/project/sysprog/lab1/src/CMakeFiles/rebuild_cache.dir
